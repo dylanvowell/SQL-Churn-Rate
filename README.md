@@ -41,7 +41,7 @@ Two cohorts tracked from January–March 2017.
 
 
 
-![Churn Trend](images/churn_trend.png)
+![Churn Trend](https://github.com/dylanvowell/SQL-Churn-Rate/blob/main/churn_trend.png?raw=true)
 
 ---
  
