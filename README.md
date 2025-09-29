@@ -8,8 +8,8 @@ This project demonstrates SQL query design and data segmentation.
 ## Project Overview
 
 - **Business Question:** Why are users leaving the platform, and what patterns can we detect?  
-- **Definition of Churn:** A user is considered churned if inactive for 90+ days.
-- **Goal:** Identify churn drivers, present insights clearly, and propose actions to reduce churn.
+- **Definition of Churn:** A user is considered churned if account canceled. 
+- **Goal:** Split data into two cohorts, identify churn rates for each cohort, create visual representation of churn rates. 
 
 ---
 
