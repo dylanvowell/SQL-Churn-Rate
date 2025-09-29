@@ -23,7 +23,7 @@ This project demonstrates SQL query design and data segmentation.
 
 ## Repository Contents
   
-- `queries/` – folder with key SQL queries used in the analysis.  
+- `SQL_Query.sql` – folder with key SQL queries used in the analysis.  
 - `README.md` – project overview (this file).  
 
 ---
